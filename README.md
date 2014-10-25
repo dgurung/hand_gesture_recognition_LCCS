@@ -17,8 +17,6 @@ Tools and Libraries Required:
 --------------------
 - Qt
 - OpenCV
-- Point Cloud Library (PCL)
-
 
 Usage:
 ------
